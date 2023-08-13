@@ -1,0 +1,48 @@
+.headcontent{
+    font-family: 'Bebas Neue', sans-serif;
+    color: whitesmoke;
+}
+/* .overlay-dark {
+    position: relative;
+}
+
+.overlay-dark::before {
+
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: #000;
+    display: block;
+    opacity: 0.55;
+} */
+
+.overlay-content{
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.btn{
+    background-color: blueviolet;
+    color: whitesmoke;
+  
+
+  }
+  .btn:hover{
+    background-color: rgb(148, 100, 194);
+    color: whitesmoke;
+  }
+
+.bg-1{
+    background-color: rgb(65, 65, 65);
+}
+
+/* Style all font awesome icons */
+.fa {
+    color:whitesmoke;
+    padding: 20px;
+     font-size: 30px;
+     width: 50px;
+     text-align: center;
+     text-decoration: none;}
